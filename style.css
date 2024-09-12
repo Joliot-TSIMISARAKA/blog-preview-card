@@ -32,6 +32,8 @@ body {
     min-width: 327px;
     height: 522px;
     border-radius: 20px;
+    box-shadow: 10px 10px var(--black);
+    border: 1px solid var(--black);
 }
 
 /* Card */
